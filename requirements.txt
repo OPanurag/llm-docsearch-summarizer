@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+sentence-transformers
+faiss-cpu
+nltk
+transformers
+torch
+streamlit
+fastapi
+uvicorn
+rouge-score
